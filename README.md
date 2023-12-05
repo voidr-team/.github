@@ -32,7 +32,7 @@ Our debut service, **Voidr Images**, offers an open-source, efficient alternativ
 
 ## 🤝 Get Involved
 
-We're more than a service; we're a community. [Join us](https://www.voidr.co/community), contribute, and be a part of the open-source revolution!
+We're more than a service; we're a community. [Join us](t.me/comunidadevoidr), contribute, and be a part of the open-source revolution!
 
 ---
 
