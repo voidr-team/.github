@@ -20,7 +20,7 @@ This holistic approach ensures cost savings and top-tier professional service.
 Our debut service, **Voidr Images**, offers an open-source, efficient alternative to Cloudinary. 
 - **[Web App](https://github.com/voidr-team/voidr-images-web)**: Interactive and user-friendly interface.
 - **[API](https://github.com/voidr-team/voidr-images-service)**: Robust and scalable for all your image handling needs.
-- **[Documentation](https://voidr-images.readme.io/reference/intro)**: Comprehensive guides and tutorials.
+- **[Documentation](https://voidr-images-en.readme.io/reference/intro)**: Comprehensive guides and tutorials.
 
 ---
 
