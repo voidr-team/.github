@@ -1,58 +1,48 @@
-# Welcome to Voidr
+# voidr.io
 
-![Voidr Banner](https://assets.voidr.co/images/banner-home-github.png)
+**voidr.io** é uma startup inovadora que oferece uma solução robusta de Test Automation as a Service (TAaaS), combinando inteligência artificial e serviço especializado para garantir a qualidade de software de ponta a ponta. A plataforma é projetada para empresas que buscam automatizar testes de aplicações web, mobile e APIs de maneira escalável e econômica, evitando instabilidades em produção e prevenindo impactos financeiros.
 
-[**Voidr**](https://www.voidr.co) is at the forefront of reimagining cloud services. Our suite is crafted for modern applications, emphasizing:
-- **Exceptional Developer Experience**
-- **Fully Open Source Foundation**
-- **Competitive Pricing**
-- **Seamless Infrastructure Integration**
+## Principais Serviços
 
-This holistic approach ensures cost savings and top-tier professional service.
+1. **Automação de Testes End-to-End (E2E):**
+   - Planejamento, criação, manutenção e evolução de casos de teste automatizados.
+   - Integração contínua com o ciclo de desenvolvimento das empresas.
 
----
+2. **Monitoramento Sintético:**
+   - Verificação contínua da performance e disponibilidade das aplicações.
+   - Relatórios detalhados para identificação proativa de problemas.
 
-## 🌟 Our Solutions
+3. **Testes de Carga:**
+   - Avaliação do desempenho de APIs e aplicações sob alta demanda.
+   - Identificação preditiva de gargalos para garantir escalabilidade.
 
-### 🖼️ Voidr Images
-![Voidr Images](https://img.voidr.co/voidr/compress:100/convert:webp/resize:600x/fetch/https://api.voidr.co/v1/images/raw/voidr/voidr-banner-en_1701195001454.png)
-#### [Explore Voidr Images](https://voidr.co/images)
-Our debut service, **Voidr Images**, offers an open-source, efficient alternative to Cloudinary. 
-- **[Web App](https://github.com/voidr-team/voidr-images-web)**: Interactive and user-friendly interface.
-- **[API](https://github.com/voidr-team/voidr-images-service)**: Robust and scalable for all your image handling needs.
-- **[Documentation](https://voidr-images-en.readme.io/reference/intro)**: Comprehensive guides and tutorials.
+4. **Relatórios Inteligentes:**
+   - Insights detalhados sobre a qualidade e estabilidade das aplicações.
+   - Dashboards personalizáveis para visualização rápida do status dos testes.
 
----
+5. **Segurança e Privacidade:**
+   - Testes específicos para garantir que as aplicações estejam em conformidade com as melhores práticas de segurança.
+   - Manutenção da privacidade e segurança dos dados durante todo o processo de teste.
 
-## 💡 Why Choose Voidr?
+## Modelo de Negócio
 
-- **Innovative**: Always at the cutting edge of technology.
-- **Accessible**: Designed with every developer in mind.
-- **Community-Driven**: Fueled by feedback and contributions.
+**voidr.io** opera no modelo de Test Automation as a Service (TAaaS), onde os clientes pagam uma mensalidade fixa por um número de testes automatizados que serão planejados, criados, mantidos e evoluídos ao longo da parceria. O serviço inclui toda a consultoria necessária para garantir a máxima eficiência e retorno sobre investimento.
 
-## 🤝 Get Involved
+### Diferenciais Competitivos
 
-We're more than a service; we're a community. [Join us](t.me/comunidadevoidr), contribute, and be a part of the open-source revolution!
+- **Integração com IA:** Automação inteligente que evolui com as necessidades do cliente.
+- **Suporte Especializado:** Equipe dedicada de especialistas em automação de testes.
+- **Escalabilidade:** Solução flexível para atender desde startups até grandes scaleups.
+- **Custo-Efetivo:** Redução de custos com QA e maior rapidez na detecção de falhas.
 
----
+## Público-Alvo
 
-### 📬 Contact Us
+A **voidr.io** atende empresas que:
 
-For support, inquiries, or just to say hi:
-- 📧 **Email**: [support@voidr.co](mailto:contact@voidr.co)
-- 💬 **Telegram**: [Join our Telegram](t.me/comunidadevoidr)
-- 🐦 **Twitter**: [@voidr_co](https://twitter.com/Voidr_co)
+- Estão insatisfeitas com seus times internos de QA.
+- Possuem times internos que não conseguem evoluir a automação de testes.
+- Buscam uma solução completa de automação de testes com suporte especializado.
 
----
+## Contato
 
-### 🌍 Spread the Word
-
-Share your experience with Voidr and help us grow:
-- ⭐ **Star us on GitHub**
-- 📢 **Share on Social Media**
-
-Thank you for being a part of our journey!
-
----
-
-© 2023 Voidr. Open source with 💙.
+Para saber mais sobre como a **voidr.io** pode ajudar sua empresa a atingir novos níveis de qualidade e eficiência, visite nosso site em [voidr.io](https://voidr.io) ou entre em contato conosco através do email: contato@voidr.io.
