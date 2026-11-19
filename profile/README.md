@@ -1,48 +1,68 @@
-# voidr.io
+# Voidr
 
-**voidr.io** é uma startup inovadora que oferece uma solução robusta de Test Automation as a Service (TAaaS), combinando inteligência artificial e serviço especializado para garantir a qualidade de software de ponta a ponta. A plataforma é projetada para empresas que buscam automatizar testes de aplicações web, mobile e APIs de maneira escalável e econômica, evitando instabilidades em produção e prevenindo impactos financeiros.
+## We deploy AI to help enterprise IT leaders deliver in days what now takes months.
 
-## Principais Serviços
+Voidr is an independent AI provider for enterprise IT. We modernize the way companies validate systems, build internal software and support legacy environments.
 
-1. **Automação de Testes End-to-End (E2E):**
-   - Planejamento, criação, manutenção e evolução de casos de teste automatizados.
-   - Integração contínua com o ciclo de desenvolvimento das empresas.
+**System validation**
 
-2. **Monitoramento Sintético:**
-   - Verificação contínua da performance e disponibilidade das aplicações.
-   - Relatórios detalhados para identificação proativa de problemas.
+Agents simulate users at scale to assess experience, conversion and security.
 
-3. **Testes de Carga:**
-   - Avaliação do desempenho de APIs e aplicações sob alta demanda.
-   - Identificação preditiva de gargalos para garantir escalabilidade.
+**In-house software alternatives**
 
-4. **Relatórios Inteligentes:**
-   - Insights detalhados sobre a qualidade e estabilidade das aplicações.
-   - Dashboards personalizáveis para visualização rápida do status dos testes.
+Replace licenses with software you control when building and maintaining it offers a better return.
 
-5. **Segurança e Privacidade:**
-   - Testes específicos para garantir que as aplicações estejam em conformidade com as melhores práticas de segurança.
-   - Manutenção da privacidade e segurança dos dados durante todo o processo de teste.
+**IT support**
 
-## Modelo de Negócio
+Agents link logs and changes to resolve failures and speed up legacy support and hypercare.
 
-**voidr.io** opera no modelo de Test Automation as a Service (TAaaS), onde os clientes pagam uma mensalidade fixa por um número de testes automatizados que serão planejados, criados, mantidos e evoluídos ao longo da parceria. O serviço inclui toda a consultoria necessária para garantir a máxima eficiência e retorno sobre investimento.
+We connect agents to business rules, system dependencies and operational data. Our team handles deployment, training and ongoing support, with outcome-based pricing. We select models and infrastructure for security and return on investment, so your company can operate and adapt the solutions with control over its data and technology.
 
-### Diferenciais Competitivos
+[Website](https://www.voidr.co/en) · [Talk to a specialist](https://www.voidr.co/en/contact) · [contact@voidr.co](mailto:contact@voidr.co)
 
-- **Integração com IA:** Automação inteligente que evolui com as necessidades do cliente.
-- **Suporte Especializado:** Equipe dedicada de especialistas em automação de testes.
-- **Escalabilidade:** Solução flexível para atender desde startups até grandes scaleups.
-- **Custo-Efetivo:** Redução de custos com QA e maior rapidez na detecção de falhas.
+<details>
+<summary>Português</summary>
 
-## Público-Alvo
+## Deployamos IA para líderes de TI de grandes empresas entregarem em dias o que hoje leva meses.
 
-A **voidr.io** atende empresas que:
+A Voidr é um provedor independente de IA para TI de grandes empresas. Modernizamos a forma de validar sistemas, desenvolver soluções internas e sustentar ambientes legados.
 
-- Estão insatisfeitas com seus times internos de QA.
-- Possuem times internos que não conseguem evoluir a automação de testes.
-- Buscam uma solução completa de automação de testes com suporte especializado.
+**Validação de sistemas**
 
-## Contato
+Avalie experiência, conversão e segurança com agentes que simulam usuários em escala.
 
-Para saber mais sobre como a **voidr.io** pode ajudar sua empresa a atingir novos níveis de qualidade e eficiência, visite nosso site em [voidr.io](https://voidr.io) ou entre em contato conosco através do email: contato@voidr.io.
+**Alternativas internas de software**
+
+Troque licenças por soluções sob seu controle quando desenvolver e manter internamente compensar.
+
+**Sustentação de TI**
+
+Agentes cruzam logs e mudanças para corrigir falhas e acelerar suporte e hypercare de legados.
+
+Conectamos agentes às regras de negócio, dependências entre sistemas e dados da operação. Nosso time cuida do deploy, capacitação e suporte, com cobrança por resultado. Escolhemos modelos e infraestrutura com foco em segurança e retorno, para sua empresa operar e adaptar as soluções com controle sobre dados e tecnologia.
+
+</details>
+
+<details>
+<summary>Español</summary>
+
+## Desplegamos IA para que los líderes de TI de grandes empresas entreguen en días lo que hoy lleva meses.
+
+Voidr es un proveedor independiente de IA para TI empresarial. Modernizamos la forma de validar sistemas, desarrollar software interno y dar soporte a entornos heredados.
+
+**Validación de sistemas**
+
+Evalúa experiencia, conversión y seguridad con agentes que simulan usuarios a escala.
+
+**Alternativas internas de software**
+
+Sustituye licencias por software propio cuando desarrollarlo y mantenerlo ofrezca más retorno.
+
+**Soporte de TI**
+
+Los agentes cruzan logs y cambios para resolver fallos y agilizar el soporte y el hypercare.
+
+Conectamos agentes con reglas de negocio, dependencias entre sistemas y datos operativos. Nuestro equipo se encarga del despliegue, la formación y el soporte, con cobro por resultados. Elegimos modelos e infraestructura según la seguridad y el retorno, para que tu empresa pueda operar y adaptar las soluciones con control sobre datos y tecnología.
+
+</details>
+
