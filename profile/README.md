@@ -6,7 +6,7 @@ Voidr is an independent AI provider for enterprise IT. We modernize the way comp
 
 **System validation**
 
-Agents simulate users at scale to assess experience, conversion and security.
+Agents simulate users at scale to assess experience, conversion, quality and resilience.
 
 **In-house software alternatives**
 
@@ -29,7 +29,7 @@ A Voidr é um provedor independente de IA para TI de grandes empresas. Moderniza
 
 **Validação de sistemas**
 
-Avalie experiência, conversão e segurança com agentes que simulam usuários em escala.
+Avalie experiência, conversão, qualidade e resiliência com agentes que simulam usuários em escala.
 
 **Alternativas internas de software**
 
@@ -52,7 +52,7 @@ Voidr es un proveedor independiente de IA para TI empresarial. Modernizamos la f
 
 **Validación de sistemas**
 
-Evalúa experiencia, conversión y seguridad con agentes que simulan usuarios a escala.
+Evalúa experiencia, conversión, calidad y resiliencia con agentes que simulan usuarios a escala.
 
 **Alternativas internas de software**
 
